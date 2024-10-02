@@ -6,8 +6,12 @@ https://github.com/Ishita2407/Movie-Recommendation-System/assets/91796142/5e1f6d
 # Features
 - Recommends 5 similar movies based on user selection.
 - Uses Bag-of-Words for text vectorization.
+- ![image](https://github.com/user-attachments/assets/3a61deea-c4f4-4afe-b9ff-77227b0c7658)
+
 - Employs cosine similarity to identify movie similarities.
-- Average recommendation speed of 34 seconds.
+- ![image](https://github.com/user-attachments/assets/2e24f725-0019-4ee5-b9ea-e9263186ff89)
+
+- Average recommendation speed of 3-4 seconds.
   
 # How It Works
 - Data Processing: A dataset of 5000+ movies is processed.
