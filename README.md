@@ -1,6 +1,7 @@
 # Movie-Recommendation-System
 This project is a content-based movie recommendation system that suggests 5 similar movies based on a user-selected input. It processes a database of over 5000 movies to provide personalized movie recommendations.
 
+## Project Demo
 https://github.com/Ishita2407/Movie-Recommendation-System/assets/91796142/5e1f6da8-1c90-4ff2-af37-bb49f4406519
 
 # Features
