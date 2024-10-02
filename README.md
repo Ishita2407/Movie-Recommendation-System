@@ -1,6 +1,8 @@
 # Movie-Recommendation-System
 This project is a content-based movie recommendation system that suggests 5 similar movies based on a user-selected input. It processes a database of over 5000 movies to provide personalized movie recommendations.
 
+https://github.com/Ishita2407/Movie-Recommendation-System/assets/91796142/5e1f6da8-1c90-4ff2-af37-bb49f4406519
+
 # Features
 - Recommends 5 similar movies based on user selection.
 - Uses Bag-of-Words for text vectorization.
@@ -12,8 +14,6 @@ This project is a content-based movie recommendation system that suggests 5 simi
 - Text Vectorization: The Bag-of-Words technique is applied to movie overviews and metadata.
 - Cosine Similarity: Movie similarities are calculated based on text vectors.
 - Recommendations: When a user selects a movie, the system suggests 5 similar movies.
-  
-https://github.com/Ishita2407/Movie-Recommendation-System/assets/91796142/5e1f6da8-1c90-4ff2-af37-bb49f4406519
 
 # Technologies Used
 - Python: Core programming language.
